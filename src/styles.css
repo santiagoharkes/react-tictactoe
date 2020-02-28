@@ -4,10 +4,7 @@ body {
       Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     margin: 20px;
     background: #e8eff5; /* fallback for old browsers */
-    background: -webkit-linear-gradient(
-      to right,
-      #2c3e50,
-      #bdc3c7
+    background: #e8eff5
     ); /* Chrome 10-25, Safari 5.1-6 */
     /* background: linear-gradient(to right, #2c3e50, #bdc3c7); */
   }
