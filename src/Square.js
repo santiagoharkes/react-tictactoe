@@ -6,8 +6,9 @@ function Square({ onClick, value, highlightWinner }) {
     <button 
     className={className}
     onClick={onClick}
-    >
+    > <p>
         {value}
+    </p>
     </button>
     )
 }
